@@ -9,7 +9,8 @@
     <item
         android:id="@+id/chat"
         android:icon="@drawable/ic_message"
-        android:title="Message" />
+        android:title="Message"
+        android:state_checked="false"/>
     <item
         android:id="@+id/sell"
         android:title="Sell"
